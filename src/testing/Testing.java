@@ -20,8 +20,15 @@ public class Testing {
         System.out.println("this is second change");
         
         //changing in github
-        
+        //pull method  will show the changes directly
         System.out.println("this is thew change in github");
+        
+        
+        //this is fetch and merge method this will not show the changes directly that is why use merge to access the changes
+        
+        System.out.println("this is fetch and merge");
+        
+        
     }
     
 }
