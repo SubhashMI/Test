@@ -18,8 +18,10 @@ public class Testing1 {
        int y = 3;
        int z = x*y;
         int a = x+y;
+        int b = a
        System.out.println("Output: "+z);
          System.out.println("Output: "+a);
+        System.out.println("Output: "+b);
     }
     
 }
